@@ -4,8 +4,13 @@
   "description": "FCC URL Shortener Microservice",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "Ciprian Mierea",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "deasync": "^0.1.4",
+    "nedb": "^1.8.0",
+    "validator": "^5.1.0"
+  }
 }
