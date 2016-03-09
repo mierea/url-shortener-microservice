@@ -1,0 +1,6 @@
+{"$$indexCreated":{"fieldName":"original_url","unique":true,"sparse":false}}
+{"original_url":"http://google.com","short_url":"http://fcc-timestamp-microservice2-mierea.c9users.io/0","lid":0,"_id":"myqnPVTu1OiML8HY"}
+{"original_url":"http://facebook.com","short_url":"http://fcc-timestamp-microservice2-mierea.c9users.io/1","lid":1,"_id":"ER1rXjXBcJTH1PiB"}
+{"original_url":"http://twitter.com","short_url":"http://fcc-timestamp-microservice2-mierea.c9users.io/2","lid":2,"_id":"kdhHkojxb5M67hNe"}
+{"original_url":"http://codepen.io","short_url":"http://fcc-timestamp-microservice2-mierea.c9users.io/3","lid":3,"_id":"tXd258bSWyGCAslo"}
+{"original_url":"http://freecodecamp.com/news","short_url":"https://calm-spire-80458.herokuapp.com/4","lid":4,"_id":"7bAxBUbQhUfLgouO"}
