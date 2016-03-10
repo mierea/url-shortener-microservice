@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "deasync": "^0.1.4",
+    "express": "^4.13.4",
     "nedb": "^1.8.0",
     "validator": "^5.1.0"
   }
