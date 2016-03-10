@@ -85,17 +85,6 @@
   }
  });
 
- app.get("/api/whoami/", function(req, res) {
-  var ip = req.headers['x-forwarded-for'];
-  var language = req.headers['accept-language'].substr(0, req.headers['accept-language'].indexOf(','));;
-  var software = req.headers['user-agent'].substring(req.headers['user-agent'].indexOf("(") + 1, req.headers['user-agent'].indexOf(")"));
-
-  res.send({
-   ipaddress: ip,
-   language: language,
-   software: software
-  });
- });
 
  var port = process.env.PORT || 8080;
  app.listen(port, function() {
